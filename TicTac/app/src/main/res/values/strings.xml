@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Крестик и Нолик</string>
+
+    <string name="homeX">Крестик</string>
+    <string name="homeAnd">И</string>
+    <string name="homeNull">Нолик</string>
+    <string name="playButton">Начать</string>
+    <string name="FirstGamer">Ход первого игрока</string>
+    <string name="SecondGamer">Ход второго игрока</string>
+</resources>
